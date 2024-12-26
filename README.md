@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm King David Adom Benyah.A student of Kwame Nkrumah University of Science and Technology Bsc. Computer Science.<br><br>- 📚 I'm currently advancing my skills in REACT<br>- ⚡ In my free time, I to watch movies, play basketball and gym</p>
+<p align="left">I'm King David Adom Benyah.<br>A student of Kwame Nkrumah University of Science and Technology Bsc. Computer Science.<br><br>- 📚 I'm currently advancing my skills in REACT<br>- ⚡ In my free time, I to watch movies, play basketball and gym</p>
 
 ###
 
